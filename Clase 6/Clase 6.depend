@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1523484161 source:d:\gustavodm\clase 6\funciones.c
+
+1523489624 source:d:\gustavodm\clase 6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sort.h"
+
+1523482977 d:\gustavodm\clase 6\funciones.h
+
+1523489623 d:\gustavodm\clase 6\sort.h
+
+1523490399 source:d:\gustavodm\clase 6\sort.c
+	<stdio.h>
+	<stdlib.h>
+

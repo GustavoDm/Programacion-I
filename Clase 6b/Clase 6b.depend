@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1523495034 source:d:\gustavodm\clase 6b\sortv2.c
+
+1523494269 source:d:\gustavodm\clase 6b\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sortv2.h"
+
+1523494095 d:\gustavodm\clase 6b\sortv2.h
+
